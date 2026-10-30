@@ -1,0 +1,14 @@
+Corte · Krew — componentes sin modificar para uso interno local.
+
+Electron 45.2.0 — MIT — https://github.com/electron/electron/tree/v45.2.0
+Node.js 24.18.0 — licencias incluidas — https://github.com/nodejs/node/tree/v24.18.0
+yt-dlp 2026.10.26 — https://github.com/yt-dlp/yt-dlp/releases/tag/2026.10.26
+FFmpeg/ffprobe N-128222-ga3c5339578-20261030 — GPLv3 o posterior.
+Fuente: https://github.com/FFmpeg/FFmpeg/tree/a3c5339578
+Compilación y dependencias: https://github.com/yt-dlp/FFmpeg-Builds
+Binarios originales: https://github.com/yt-dlp/FFmpeg-Builds/releases
+Montserrat — SIL Open Font License, incluida en app/public/fonts/OFL.txt.
+
+Este paquete no cuenta con certificado de firma de código comercial.
+No incluye servicios online propios, publicidad ni telemetría de Corte.
+La reproducción y las descargas conectan directamente con YouTube.
